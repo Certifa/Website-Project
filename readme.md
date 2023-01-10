@@ -16,13 +16,17 @@ This is a project that I have been working on for a while. It is an portifolio w
 ## FAQ
 
 **Q:** Why did you make this website?
+
 **A:** I made this website to show my progress and to show what I have learned.
 
 **Q:** Why did you make this website in Dutch?
+
 **A:** I made this website in Dutch because the project was in Dutch.
 
 **Q:** Why did you make this website in HTML, CSS, JavaScript and PHP?
+
 **A:** I made this website in HTML, CSS, JavaScript and PHP because that is what we learned in class.
 
 **Q:** Is there coming more?
+
 **A:** Not sure if I'm going to add more to this website, but I might.
