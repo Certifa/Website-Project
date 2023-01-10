@@ -1,0 +1,16 @@
+body {
+  background-image: url(wp2729921-wallpaper-full-hd-gifs-animados.gif);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.container {
+  border-radius: 10px;
+  background-color: indigo;
+  padding: 65px;
+  margin: 90px;
+  text-align: center;
+  color: aliceblue;
+}
